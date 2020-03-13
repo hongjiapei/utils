@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hjp\\Utils": "src/"
+            "Hjp\\Utils\\": "src/"
         },
         "files": [
             "src/helpers.php"

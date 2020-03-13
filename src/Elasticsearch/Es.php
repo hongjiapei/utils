@@ -18,7 +18,7 @@ class Es
      */
     public function __construct(Array $hosts = [])
     {
-        if ($hosts) {
+        if (!$hosts) {
             throw new Exception('请配置hosts');
         }
         $this->client = ClientBuilder::create()->setHosts($hosts)->build();

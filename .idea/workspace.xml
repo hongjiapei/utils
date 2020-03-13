@@ -7,7 +7,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
@@ -24,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Elasticsearch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
@@ -43,7 +44,9 @@
       <option name="presentableId" value="Default" />
       <updated>1584069920832</updated>
       <workItem from="1584069921964" duration="611000" />
-      <workItem from="1584071902829" duration="2792000" />
+      <workItem from="1584071902829" duration="3153000" />
+      <workItem from="1584084448365" duration="14000" />
+      <workItem from="1584088479565" duration="9000" />
     </task>
     <servers />
   </component>
@@ -51,6 +54,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="216" key="FileChooserDialogImpl" timestamp="1584083643852">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="549" y="216" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1584083643852" />
     <state x="599" y="384" key="NewPhpFileDialog" timestamp="1584081440164">
       <screen x="0" y="0" width="1536" height="920" />
     </state>

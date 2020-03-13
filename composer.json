@@ -1,0 +1,25 @@
+{
+    "name": "hjp/utils",
+    "description": "utils",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hjp",
+            "email": "weMystic@foxmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2",
+        "elasticsearch/elasticsearch": "~6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hjp\\Utils": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
